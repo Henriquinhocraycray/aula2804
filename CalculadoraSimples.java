@@ -22,7 +22,7 @@ public static void main(String[] args) {
             op = entrada.nextInt();
 
             if(op == 1){
-                System.out.println("n/t/t/t/ -- Soma -- \n");
+                System.out.println("\n\t\t\t -- Soma -- \n");
 
         //Entrada
             System.out.println("Informe N1: ");
@@ -41,7 +41,7 @@ public static void main(String[] args) {
             }else if(op == 3) {
                 System.out.println("\n\t\t\t -- Forte abraço! -- \n");
             }else{
-                System.out.println("Opção" + op + "Incorreta!");
+                System.out.println("Opção " + op + " Incorreta!");
             }
             
 
