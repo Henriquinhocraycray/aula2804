@@ -12,7 +12,7 @@ public static void main(String[] args) {
 
         do{
 
-            System.out.println("\n\t\t\t -- Calculadora simples --\n"); 
+            System.out.println("\n\t\t\t -- Calculadora simples --\1n"); 
             
             System.out.println("1. Soma");
             System.out.println("2. Subtração");
